@@ -1,0 +1,8 @@
+random text just to check fi this uploads correctly
+
+this worked on custom build command
+
+cd server && npm install
+
+from what i research i have to later on put
+cd server && npm install && cd ../client && npm install && npm run build
